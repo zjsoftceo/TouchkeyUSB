@@ -1,6 +1,6 @@
 # TouchkeyUSB
 *******
-ARDUINO TOUCHKEYUSB SHIELD EXAMPLE
+Arduino TouchKeyUSB Shield v3.1
 ********
 - Here is a description of its usage
 - Simulating a keyboard by microcontroller, leads a few keys, and using the touch form instead of switches. Now we can also use an Arduino board and a touch key USB shield to achieve this effect.
