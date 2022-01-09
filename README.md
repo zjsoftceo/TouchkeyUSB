@@ -9,3 +9,4 @@ Arduino TouchKeyUSB Shield v3.1
 ******
 - As you can see the USB keyboard usage is commented out, you are supposed to be able to send keystrokes to a PC with this.
 ******
+E-mail:zjsoftceo@126.com
